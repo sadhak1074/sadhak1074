@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/sadhak saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadhak saini" height="30" width="40" /></a>
 <a href="https://kaggle.com/sadhak saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sadhak saini" height="30" width="40" /></a>
 <a href="https://instagram.com/sadhak_saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadhak_saini" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sadhak saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sadhak saini" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/sadhaksaini18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sadhak saini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
