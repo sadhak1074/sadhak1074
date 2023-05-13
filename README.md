@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Data Analysis**
 
-- 🌱 I’m currently learning **Web Development and Data Analysis**
+- 🌱 I’m currently learning **Data Science and Data Structure and algorithms**
 
-- 💬 Ask me about **HTML, Python, Data Analysis**
+- 💬 Ask me about **Python, Data Analysis, Java**
 
 - 📫 How to reach me **sadhaksaini18@gmail.com / +91 8000287465**
 
