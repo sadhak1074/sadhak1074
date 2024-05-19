@@ -1,13 +1,13 @@
 ![logo](https://github.com/sadhak1074/sadhak1074/blob/main/Python%20DEveloper%20Machine%20learning%20enthusiast.png)
 <h1 align="center">Hi 👋, I'm Sadhak Saini</h1>
-<h3 align="center">A passionate Data Science student from India</h3>
+<h3 align="center">A passionate Python Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working on **Flask and Django**
 
 - 🌱 I’m currently learning **Data Science and Data Structure and algorithms**
 
-- 💬 Ask me about **Python, Data Analysis, Java**
+- 💬 Ask me about **Python, Flask, Django, Machine Learning**
 
 - 📫 How to reach me **sadhaksaini18@gmail.com / +91 8000287465**
 
