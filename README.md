@@ -1,4 +1,4 @@
-![logo]([https://github.com/sadhak1074/sadhak1074/blob/main/Python%20DEveloper%20Machine%20learning%20enthusiast.png])
+![logo](https://github.com/sadhak1074/sadhak1074/blob/main/Python%20DEveloper%20Machine%20learning%20enthusiast.png)
 <h1 align="center">Hi 👋, I'm Sadhak Saini</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
